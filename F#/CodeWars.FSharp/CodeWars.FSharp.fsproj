@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="RomanNumerals\RomanNumerals.fs" />
+    <Compile Include="GrowthOfPopulation\GrowthOfPopulation.fs" />
+    <Compile Include="FindNb\FindNb.fs" />
     <Compile Include="ToCamelCase\ToCamelCase.fs" />
     <Compile Include="DisemvowelTrolls\DisemvowelTrolls.fs" />
     <Compile Include="Program.fs" />
