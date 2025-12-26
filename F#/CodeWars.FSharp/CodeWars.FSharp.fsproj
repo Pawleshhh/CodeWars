@@ -10,6 +10,8 @@
     <Compile Include="ToCamelCase\ToCamelCase.fs" />
     <Compile Include="DisemvowelTrolls\DisemvowelTrolls.fs" />
     <Compile Include="RuleOfDivBy13\RuleOfDivBy13.fs" />
+    <Compile Include="DivAndBound.fs" />
+    <Compile Include="TrailingZerosOfN.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
